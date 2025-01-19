@@ -29,10 +29,5 @@ The system leverages the following:
 4. Undo Functionality  
 5. Data Prioritization and Sorting  
 
-**Team Members and Responsibilities:**  
-- **Ali Hussnain:** Implements BST for patient records.  
-- **Asif Hussain:** Develops appointment scheduling and undo features.  
-- **Ummer Jabbar:** Focuses on graphs for resource optimization and sorting algorithms.  
-
 **Conclusion:**  
 This Hospital Management System will enhance efficiency, minimize delays, and ensure seamless operations in a hospital environment.
